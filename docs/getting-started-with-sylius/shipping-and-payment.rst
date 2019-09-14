@@ -34,7 +34,7 @@ Payment method creation:
 
 .. attention::
 
-    *Psst!* You can find integrations with more payment gateways if you take a look at some `Sylius plugins <https://sylius.com/plugins>`_
+    *Psst!* You can find integrations with more payment gateways if you take a look at some `Sylius plugins <https://sylius.com/plugins/>`_
 
 Great! The only thing left is creating some products, and we can go shopping!
 
